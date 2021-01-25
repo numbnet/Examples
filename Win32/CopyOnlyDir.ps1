@@ -19,6 +19,14 @@ $ copy .\source C:\path\to\copy -r -fi PSIsContainer
 $ robocopy "A:\Source folder" "B:\Destination folder" /e /xf *
 
 
+##
+$ F:\> xcopy F:\ E:\Git\-Oemdrv /t /e
+
+
+####
+## XCOPY все еще работает, Windows Vista и более поздние версии включают ROBOCOPY, которая имеет больше функций.
+## Общий синтаксис для копирования дерева папок (включая пустые папки) без файлов:
+$ robocopy "A:\Source folder" "B:\Destination folder" /e /xf *
 
 ## 
 
