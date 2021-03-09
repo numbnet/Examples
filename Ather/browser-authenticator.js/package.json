@@ -1,0 +1,30 @@
+{
+  "name": "browser-authenticator",
+  "version": "1.0.8",
+  "description": "Two- / Multi- Factor Authenication (2FA / MFA / OTP) for browser JavaScript",
+  "main": "authenticator.js",
+  "homepage": "https://git.coolaj86.com/coolaj86/browser-authenticator.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.coolaj86.com/coolaj86/browser-authenticator.js"
+  },
+  "keywords": [
+    "botp",
+    "notp",
+    "otp",
+    "totp",
+    "hotp",
+    "authenticator",
+    "authy",
+    "mfa",
+    "2fa"
+  ],
+  "author": "AJ ONeal <coolaj86@gmail.com> (https://coolaj86.com/)",
+  "license": "(MIT OR Apache-2.0)"
+}
