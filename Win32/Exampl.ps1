@@ -34,6 +34,11 @@ else
 #Invoke-WebRequest -Uri "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v8.1.0.0p1-Beta/OpenSSH-Win64.zip" -OutFile "$env:Temp\OpenSSH\OpenSSH-Win64.zip";
 
 
+
+
+
+
+
 ##================================================
 #### Unzip the files
 ## Expand-Archive -Path "$env:temp\OpenSSH\OpenSSH-Win64.Zip" -DestinationPath "$env:ProgramFiles\OpenSSH\";
