@@ -59,7 +59,7 @@ Invoke-WebRequest -Uri "https://github.com/numbnet/Win10andAppx/releases/downloa
 Invoke-WebRequest -Uri "https://github.com/numbnet/Win10andAppx/releases/download/V1/Chrome.Installer.v89.exe" -OutFile "$env:SYSTEMDRIVE\PS\Chrome.Installer.v89.exe"
 Invoke-WebRequest -Uri "https://github.com/numbnet/Win10andAppx/releases/download/V1/UltraISO.exe" -OutFile "$env:SYSTEMDRIVE\PS\UltraISO.exe"
 Invoke-WebRequest -Uri "https://github.com/numbnet/Win10andAppx/releases/download/V1/7z917-x64.msi" -OutFile "$env:SYSTEMDRIVE\PS\7z917-x64.msi"
-Invoke-WebRequest -Uri "https://github.com/numbnet/Win10andAppx/releases/download/V1/winrar-x64-591ru.exe" -OutFile "$env:SYSTEMDRIVE\PS\winrar-x64-591ru.exe"
+#Invoke-WebRequest -Uri "https://github.com/numbnet/Win10andAppx/releases/download/V1/winrar-x64-591ru.exe" -OutFile "$env:SYSTEMDRIVE\PS\winrar-x64-591ru.exe"
 
 
 ##=======================================================
@@ -70,7 +70,7 @@ Invoke-WebRequest -Uri "https://github.com/numbnet/Win10andAppx/releases/downloa
 
 cd $env:SYSTEMDRIVE\PS\
 .\7z917-x64.msi
-.\winrar-x64-591ru.exe
+#.\winrar-x64-591ru.exe
 .\UltraISO.exe
 .\Chrome.Installer.v89.exe
 Expand-Archive -Path "$env:SYSTEMDRIVE\PS\Office_Pro_Plus_2010_x64_ru.iso.zip" -DestinationPath "$env:SYSTEMDRIVE\PS\Office_Pro_Plus_2010_x64_ru";
@@ -78,6 +78,5 @@ cd "$env:SYSTEMDRIVE\PS\Office_Pro_Plus_2010_x64_ru"
 .\setup.exe
 
 
-
- cd $env:SYSTEMDRIVE\AmmyAdmin; .\AmmyAdmin.sfx.exe
+$env:SYSTEMDRIVE\AmmyAdmin\AmmyAdmin.sfx.exe
 exit
