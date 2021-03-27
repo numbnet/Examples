@@ -1,0 +1,404 @@
+    
+Name                                     Id                                            Version
+------------------------------------------------------------------------------------------------------------------
+Zygor Client                             ZygorGuides.ZygorClient                       4.3.9
+Hyper                                    Zeit.Hyper                                    3.0.2.1510
+Yubikey Manager                          Yubico.YubikeyManager                         1.1.5
+YouTube Music Desktop App                Ytmdesktop.Ytmdesktop                         1.11.0
+YoudaoNote                               Youdao.YoudaoNote                             6.10.1
+YoudaoDict                               Youdao.YoudaoDict                             8.9
+yomail                                   yomail.yomail                                 8.8.0.2
+Yarn                                     Yarn.Yarn                                     1.22.5
+YaCy                                     YaCy.YaCy                                     1.922
+YACReader                                YACReader.YACReader                           9.7.1
+XunleiMediaPlayer                        Xunlei.XunleiMediaPlayer                      6.1.7.810
+Deepvocal Itsuki Yoru Japanese voicebank xinxex.deepvocal-Itsukiyoru-jpn               1.0
+Twinkle Tray                             XanderFrangos.TwinkleTray                     1.12.2
+Ryzom                                    WinchGate.Ryzom                               3.6
+VREW                                     VoyagerX.Vrew                                 0.4.18
+EverythingLite                           voidtools.EverythingLite                      1.4.1.988
+Everything                               voidtools.Everything                          1.4.1.992
+VMware Workstation Player                VMware.WorkstationPlayer                      16.1.0
+Virtual Magnifying Glass                 VirtualMagnifyingGlass.VirtualMagnifyingGlass 3.6
+Harmony                                  VincentL.Harmony                              0.9.1
+VLC media player nightly                 VideoLAN.VLCNightly                           4.0.0-20201226
+MediaMonkey                              VentisMediaInc.MediaMonkey                    4.1.29.1910
+Foldit                                   UniversityOfWashington.Foldit                 20180312-1714f56737-win_x86
+Weka                                     UniversityOfWaikato.Weka                      3.8.4
+Orange                                   UniversityofLjubljana.Orange                  3.27.1
+Unchecky                                 Unchecky.Unchecky                             1.2
+BOINC                                    UCBerkeley.BOINC                              7.16.11
+LightBulb                                Tyrrrz.LightBulb                              2.2.0
+Typora                                   Typora.Typora                                 0.9.96
+TypeFaster Typing Tutor                  TypeFaster.TypeFaster                         0.4.2
+Electorrent                              Tympanix.Electorrent                          2.7.1.390
+Authy                                    Twilio.Authy                                  1.8.3
+MTPutty                                  TTYPlus.MTPutty                               1.7
+Trelby                                   Trelby.Trelby                                 2.2
+PhotoSync                                touchbyte.PhotoSync                           4.0.4
+ImageView                                TonyPottier.ImageView                         2.0.0
+FileZilla Client Nightly                 TimKosse.FileZillaClientNightly               3.52.0-beta1-20201224
+Bulk Rename Utility                      TGRMNSoftware.BulkRenameUtility               3.3.1.0
+Weiyun Sync                              Tencent.WeiyunSync                            3.0.0.456
+Weiyun                                   Tencent.Weiyun                                5.1.873
+QQPlayer                                 Tencent.QQPlayer_cn                           4.6.3.1104
+Fiddler Everywhere Internal              Telerik.FiddlerEverywhereInternal             1.4.1-internal
+Fiddler Everywhere Insiders              Telerik.FiddlerEverywhereInsiders             1.4.1-insiders
+Fiddler Everywhere                       Telerik.FiddlerEverywhere                     1.4.1
+Teamspeak Client                         TeamSpeakSystems.TeamSpeakClient              3.5.3.0
+WinDynamicDesktop                        t1m0thyj.WinDynamicDesktop                    4.4.0
+System Explorer                          SystemExplorer.SystemExplorer                 7.0.0
+WinCDEmu                                 Sysprogs.WinCDEmu                             4.1
+SyncTrayzor                              SyncTrayzor.SyncTrayzor                       1.1.24
+MystiQ                                   SWL-X.MystiQ                                  20.02.18
+Write                                    StylusLabs.Write                              3.0.0
+Stretchly                                Stretchly.Stretchly                           1.3.0
+StrawberryPerl                           StrawberryPerl.StrawberryPerl                 5.32.0.1
+GitHubReleaseNotes                       StefHeyenrath.GitHubReleaseNotes              1.0.5.3
+Spotify                                  Spotify.Spotify                               latest
+Viscosity                                SparkLabs.Viscosity                           1.8.6
+HackFonts                                SourceFoundry.HackFonts                       1.6.0
+SMPlayer                                 SMPlayer.SMPlayer                             20.4.2
+Autopsy                                  SleuthKit.Autopsy                             4.17.0
+Citycraft Launcher                       Simon511000.CitycraftLauncher                 1.9.9
+Beyond Compare 4                         ScooterSoftware.BeyondCompare4                4.3.7.25118
+FFFTP                                    Sayuri.FFFTP                                  4.7
+DYMO Label                               SanfordLP.DYMOLabel                           8.7.3.46663
+DYMO Connect                             SanfordLP.DYMOConnect                         1.3.1
+Google Play Music Desktop Player         SamuelAttard.GooglePlayMusicDesktopPlayer     4.7.1
+Ruby with DevKit                         RubyInstallerTeam.RubyWithDevKit              2.7.2.1
+Ruby                                     RubyInstallerTeam.Ruby                        2.7.2
+RoyalTS                                  RoyalApps.RoyalTS                             5.03.61110.0
+Bili                                     richasy.bili                                  1.3.8.0
+ResponsivelyApp                          ResponsivelyApp.ResponsivelyApp               0.1.5
+Raspberry Pi Imager                      RaspberryPiFoundation.RaspberryPiImager       1.5
+SharpKeys                                RandyRants.SharpKeys                          3.9.2
+Textify                                  rammichael.Textify                            1.8.2
+Winamp                                   Radionomy.Winamp                              5.8.3660-Beta
+Qv2ray                                   Qv2ray.Qv2ray                                 2.6.3
+QMPlay2                                  QMPlay2.QMPlay2                               19.12.19
+Python                                   Python.Python                                 3.9.1
+PuTTY                                    PuTTY.PuTTY                                   0.74
+Plex Media Player                        plex.plexmediaplayer                          2.58.0.1076
+PlayStation Now                          PlayStation.PSNow                             11.2.2
+Playnite                                 Playnite.Playnite                             8.7
+Speccy                                   Piriform.Speccy                               1.32.740
+Osu!                                     Peppy.Osu!                                    2020.523.0
+AdvancedRestClient                       PawelPsztyc.AdvancedRestClient                15.0.5
+Paragon Backup & Recovery CE             Paragon.ParagonBackupRecoveryCE               17.9.3.4927
+Utaformatix                              oxygendioxide.utaformatix                     3.1
+OutSystems Service Studio                OutSystems.ServiceStudio                      11.7.12.0
+BatteryBar                               OsirisDevelopment.BatteryBar                  3.6.6
+MySQL                                    Oracle.MySQL                                  8.0.22
+4K Youtube to MP3 Free                   OpenMedia.4KYoutubetoMP3                      3.12.4
+Node.js Nightly                          OpenJS.NodeJSNightly                          16.0.0-20201226
+Desktop Editors                          ONLYOFFICE.DesktopEditors                     6.1.0.90
+NeoLoad                                  Neotys.NeoLoad                                7.3
+MyPaint                                  MyPaint.MyPaint                               2.0.1
+MY.GAMES GameCenter                      MyGames.GameCenter                            4.0.1569.53606
+Firefox Nightly                          Mozilla.FirefoxNightly                        86.0a1
+Notejoy                                  MonkiLabs.Notejoy                             1.10.1
+MongoDB Compass Readonly                 MongoDB.Compass.Readonly                      1.21.2
+MongoDB Compass Community                MongoDB.Compass.Community                     1.21.2
+ModernFlyouts                            ModernFlyouts.ModernFlyouts                   0.8.1.0
+Satisfactory Mod Launcher                Mircearoata.SatisfactoryModLauncher           1.0.17
+Visual Studio Community                  Microsoft.VisualStudio.Community              16.8.30804.86
+Skype                                    Microsoft.Skype                               8.67.0.96
+ProjectMyScreen                          Microsoft.ProjectMyScreen                     1.2.0.0
+PowerToys                                Microsoft.PowerToys                           0.27.1
+Mouse and Keyboard Center                Microsoft.MouseandKeyboardCenter              12.181.137.0
+Ironpython 2                             Microsoft.Ironpython2                         2.7.10
+Microsoft Deployment Toolkit             Microsoft.DeploymentToolkit                   8456
+Accessibility Insights for Windows       Microsoft.AccessibilityInsightsWindows        1.1.1334.2
+Those Funny Funguloids!                  MHGames.ThoseFunnyFunguloids                  1.06
+Shotcut                                  Meltytech.Shotcut                             20.07.11
+Monkey's Audio                           MatthewAshland.MonkeysAudio                   5.55
+TesseractOCR                             MannheimUniversityLibrary.TesseractOCR        5.0.0
+Malwarebytes                             Malwarebytes.Malwarebytes                     4.2.1.89
+MacType                                  MacType.MacType                               2019.1-beta6
+Encrypto                                 MacPaw.Encrypto                               1.0.1
+LyX                                      LyX.LyX                                       2.3.5.2
+PyMODA                                   LUPhysics.PyMODA                              1.1.0
+EasyConnect                              lstratman.easyconnect                         3.0.0.82
+MyMoney.Net                              LovettSoftware.MyMoney.Net                    1.1.65.0
+Logitech Harmony Remote                  Logitech.Harmony                              1.0.1.308
+AutoHotkey                               Lexikos.AutoHotkey                            1.1.33.02
+FontBase                                 Levitsky.FontBase                             2.11.3
+Lenovo System Update                     Lenovo.SystemUpdate                           5.07.0110
+LBRY                                     LBRY.LBRY                                     0.47.1
+Keybase                                  Keybase.Keybase                               5.6.0-20200528221358+040afтАж
+Jianguoyun                               Jianguoyun.Jianguoyun                         4.3.5
+Color Cop                                JayPrall.ColorCop                             5.4.3
+HeavyLoad                                JAMSoftware.HeavyLoad                         3.6.0
+Cyberduck                                Iterate.Cyberduck                             7.7.2
+pyaudio                                  intxcc.pyaudio                                0.2.11
+Extreme Tuning Utility                   Intel.ExtremeTuningUtility                    6.5.2.40
+YogaDNS                                  Initex.YogaDNS                                1.14
+Hyperspace Desktop                       HyperspaceDev.HyperspaceDesktop               1.1.3
+Hyne Timber Design                       Hyne.TimberDesign                             7.5.14.2
+Crypter                                  HR.Crypter                                    4.0.0
+HP Cloud Recovery Tool                   HP.HPCloudRecoveryTool                        2.5.3
+IDA Freeware                             HexRays.IDA-Freeware                          7.0
+simplewall                               Henry++.simplewall                            3.2.4
+HandyWinget-GUI                          HandyOrg.HandyWinget-GUI                      1.3.0.1
+GraphQL Playground                       Graphcool.GraphQLPlayground                   1.8.10
+Google Backup And Sync                   Google.BackupAndSync                          latest
+GOG Galaxy                               GOG.Galaxy                                    2.0.30.20
+Glary Utilities                          Glarysoft.GlaryUtilities                      5.148
+Cherrytree                               Giuspen.Cherrytree                            0.39.3
+Geometry                                 GeoGebra.Geometry                             6.0.600.0
+Geany                                    Geany.Geany                                   1.36
+TypeRefHasher                            GDATA.TypeRefHasher                           1.0.2
+FormatFactory                            FreeTime.FormatFactory                        5.4.5
+Mailspring                               Foundry376.Mailspring                         1.7.8
+Files                                    Files-Community.Files                         0.21.1
+FastCopy                                 FastCopy.FastCopy                             3.92
+PDFreDirect                              EXPSystems.PDFreDirect                        2.5.2.0
+Yinxiang                                 evernote.yinxiang                             6.21.22.2498
+Terminus                                 Eugeny.Terminus                               1.0.120
+Taiga                                    erengy.Taiga                                  1.3.1
+Electron Fiddle                          ElectronCommunity.ElectronFiddle              0.15.1
+UXL Launcher                             DrewNaylor.UXL-Launcher                       4.0
+guinget                                  DrewNaylor.guinget                            0.1.3
+Doomsday                                 Doomsday.Doomsday                             2.2.2
+DJIAssistant2ForBatteryStation           DJI.DJIAssistant2ForBatteryStation            2.0.1
+Discord Canary                           Discord.DiscordCanary                         0.0.292
+Doxygen                                  DimitriVanHeesch.Doxygen                      1.8.20
+Wayk Now                                 Devolutions.WaykNow                           2020.1.7.0
+DasKeyboard                              DasKeyboard.DasKeyboard                       3.2.6
+Zentimo                                  CrystalRich.Zentimo                           2.3.2
+USB Safely Remove                        CrystalRich.USBSafelyRemove                   6.3.2
+LockHunter                               CrystalRich.LockHunter                        3.3.4
+InternetOff                              CrystalRich.InternetOff                       3.0.1
+CrystalDiskInfo Shizuku Edition          CrystalDewWorld.CrystalDiskInfoShizukuEdition 8.8.9
+CrystalDiskInfo Kurei Kei Edition        CrystalDewWorld.CrystalDiskInfoKureiKeiEditiтАж 8.8.9
+CrystalDiskInfo                          CrystalDewWorld.CrystalDiskInfo               8.8.9
+Cryptomator                              Cryptomator.Cryptomator                       1.5.10
+CozyDrive                                CozyCloud.CozyDrive                           3.20.0
+Couchbase Server Community               Couchbase.ServerCommunity                     6.5.1
+CopyTranslator                           CopyTranslator.CopyTranslator                 9.1.0
+Utility                                  Concept2.Utility                              7.10.01
+Certify SSL Manager                      CertifyTheWeb.CertifySSLManager               5.1.5.0
+Hover                                    Caphyon.Hover                                 1.1.0.0
+Advanced Installer                       Caphyon.AdvancedInstaller                     17.0.0.0
+Brave Browser Nightly                    BraveSoftware.BraveBrowser-Nightly            latest
+Wavebox                                  Bookry.Wavebox                                10.0.179
+BitPay                                   BitPay.BitPay                                 4.8.1
+Window Inspector                         BinaryFortress.WindowInspector                2.5.0.0
+VoiceBot                                 BinaryFortress.VoiceBot                       3.7.1.0
+TrayStatus                               BinaryFortress.TrayStatus                     4.4.0.0
+LogFusion                                BinaryFortress.LogFusion                      6.4.1.0
+FileSeek                                 BinaryFortress.FileSeek                       6.4.0.0
+DisplayFusion                            BinaryFortress.DisplayFusion                  9.7.0.0
+ClipboardFusion                          BinaryFortress.ClipboardFusion                5.8.4.0
+BiglyBT                                  BiglySoftware.BiglyBT                         2.5.0.0
+Honeyview                                Bandisoft.Honeyview                           5.35
+AxCrypt                                  AxCrypt.AxCrypt                               1.7.3201.0
+AviSynth                                 AviSynth.AviSynth                             2.6.0
+Audacity                                 Audacity.Audacity                             2.4.2
+Sit down Modern Warfare                  AshleyStone.SitdownMW                         1.0.0.0
+Default Audio                            AshleyStone.DefaultAudio                      1.0.0.0
+Simply Fortran                           ApproximatrixLLC.SimplyFortran                3.12.3272.0
+AnyDesk                                  AnyDeskSoftwareGmbH.AnyDesk                   latest
+WizTree                                  AntibodySoftware.WizTree                      3.35
+WizMouse                                 AntibodySoftware.WizMouse                     1.7.0.3
+WizKey                                   AntibodySoftware.WizKey                       1.5.0.8
+Bulk Image Downloader                    AntibodySoftware.BulkImageDownloader          5.77
+HeidiSQL Nightly                         AnsgarBecker.HeidiSQLNightly                  11.0.0.6057
+AngryIPScanner                           angryziber.AngryIPScanner                     3.7.1
+yuque                                    alibaba.yuque                                 0.5.19
+Algodoo                                  Algoryx.Algodoo                               2.1.0
+Alchemy Viewer                           Alchemy.Viewer                                6.3.6.46705
+Alacritty                                Alacritty.Alacritty                           0.4.3
+Aya                                      7room.Aya                                     0.10.4
+Potplayer                                Daum.Potplayer                                1.7.21305
+Mypal                                    Feodor2.Mypal                                 28.14.2
+Office Deployment Tool                   Microsoft.officedeploymenttool                16.0.13231.20368
+Unity Hub                                UnityTechnologies.UnityHub                    2.4.2.0
+PKU gateway                              pku.gateway                                   0.9.8
+Strawberry                               StrawberryMusicPlayer.Strawberry              0.8.3
+euroscope                                gergelycsernak.euroscope                      3.2.1.0
+Plantronics Hub                          Poly.PlantronicsHub                           3.20.0
+Kaspersky Security Cloud                 Kaspersky.SecurityCloud                       4.21.0.0
+Directory Opus                           GPSoftware.DirectoryOpus                      12.22
+Dokany                                   dokan-dev.Dokany                              1.4.0.1000
+CrystalDiskMark                          CrystalDewWorld.CrystalDiskMark               8.0.0a
+CrystalDiskMark Shizuku Edition          CrystalDewWorld.CrystalDiskMarkShizukuEdition 8.0.0a
+Listary                                  Bopsoft.Listary                               5.00.2843
+Path Copy Copy                           CLechasseur.PathCopyCopy                      19.0
+Virtual CloneDrive                       ElaborateBytes.VirtualCloneDrive              5.5.2.0
+IntelliJ IDEA Community Edition          JetBrains.IntelliJIDEA.Community              2020.3
+PyCharm Community Edition                JetBrains.PyCharm.Community                   2020.3
+WizFile                                  AntibodySoftware.WizFile                      3.02
+Cold Turkey Blocker                      ColdTurkeySoftware.ColdTurkeyBlocker          4.1
+DMM Game Player                          DMM.GamePlayer                                2.5.7
+Fedora Remix for WSL                     whitewaterfoundry.fedora-remix-for-wsl        31.5.0.0
+PyCharm Professional                     JetBrains.PyCharm.Professional                2020.3
+Grammarly for MS Office                  grammarly.grammarlyforoffice                  6.8.254
+Wolai                                    Woyun.Wolai                                   1.0.15.0
+Alipay Development Assistant             alibaba.alipaydevelopmentassistant            1.0.7
+Grammarly                                grammarly.GrammarlyForWindows                 1.5.70
+Lunacy                                   Icons8.Lunacy                                 6.6.0
+0patch Agent                             ACROSSecurity.0patch                          latest
+Publii                                   TidyCustoms.Publii                            0.37.3
+MEGASync                                 Mega.MEGASync                                 4.3.9.0
+LMMS Nightly                             LMMS.LMMSNightly                              1.3.0
+GoodSync                                 SiberSystems.GoodSync                         11.5.3.3
+WinDirStat: Windows Directory Statistics WinDirStat.WinDirStat                         1.1.2
+VLC media player                         VideoLAN.VLC                                  3.0.11
+System Information for Windows           TopalaSoftwareSolutions.SIW                   2020.09.15.7
+Rambox Community Edition                 Rambox.RamboxCE                               0.7.5
+Nullsoft Scriptable Install System       NSIS.NSIS                                     3.05
+Media Player Classic - Home Cinema (MPCтАж MPC-HC.MPC-HC                                 1.7.13
+Thunderbird (Swedish)                    Mozilla.Thunderbird.Thunderbird_v78.1.1       78.1.1 (sv-SE)
+Thunderbird (Swedish)                    Mozilla.Thunderbird.Thunderbird_v78.1.0       78.1.0 (sv-SE)
+Firefox (Chinese Taiwan)                 Mozilla.Firefox.Firefox_v79.0                 79.0 (ZH-TW)
+Windows Assessment and Deployment ToolkтАж Microsoft.WindowsADK                          2004
+Microsoft Visual C++ 2010 Service Pack тАж Microsoft.VC++2010Redist-x86                  10.0.40219.325
+Microsoft Visual C++ 2010 Service Pack тАж Microsoft.VC++2010Redist-x64                  10.0.40219.325
+Microsoft Visual C++ 2008 Service Pack тАж Microsoft.VC++2008Redist-x86                  9.0.30729.6161
+Microsoft Visual C++ 2008 Service Pack тАж Microsoft.VC++2008Redist-x64                  9.0.30729.6161
+Microsoft Visual C++ 2005 Service Pack тАж Microsoft.VC++2005Redist-x86                  8.0.61001
+Microsoft Visual C++ 2005 Service Pack тАж Microsoft.VC++2005Redist-x64                  8.0.61000
+Official Hamster Republic Role Playing тАж HamsterRepublic.OHRRPGCE                      2020.05.02.11799
+DBeaver Community Edition                dbeaver.dbeaver                               7.3.1
+MPC-HC                                   clsid2.mpc-hc                                 1.9.6
+Wechat Work                              Tencent.wechat-work                           3.0.30.2006
+Tencent Meeting                          Tencent.TencentMeeting                        2.5.0.470
+Econap                                   SelectCode.econap                             1.3.4.0
+Avro                                     OmicronLab.Avro                               5.6.0
+Nutstore                                 Nutstore.Nutstore                             5.1.8.0
+Huawei Mobile Cloud                      huawei.mobilecloud                            10.2.2.300
+Local                                    WPEngine.Local                                5.5.3
+Wiznote Lite                             Wiznote.Wiznotelite                           2.1.1
+Wiznote                                  Wiznote.Wiznote                               4.13.15
+Wireshark                                WiresharkFoundation.Wireshark                 3.4.2.0
+Wings3D                                  Wings3D.Wings3D                               2.2.5
+Windscribe                               Windscribe.Windscribe                         1.83 Build 18
+0 A.D.                                   WildfireGames.0AD                             0.0.23b
+The Battle for Wesnoth                   Wesnoth.BattleForWesnoth                      1.14.12
+ChMac                                    wandersick.ChMac                              2.0.0.5
+AeroZoom                                 wandersick.AeroZoom                           4.0.0.7
+vim                                      vim.vim                                       8.2.1923
+Trillian                                 Trillian.Trillian                             6.3.0.5
+GPU-Z                                    TechPowerUp.GPU-Z                             2.36.0
+Kangaroo                                 Taozuhong.Kangaroo                            1.0.5
+010Editor                                SweetScape.010Editor                          11.0.0
+SuperCollider                            SuperCollider.SuperCollider                   3.11.0
+Stellarium                               Stellarium.Stellarium                         0.20.3
+mpv.net                                  stax76.mpv.net                                5.4.8.0
+OpenVPN Configuration Generator          SparkLabs.openvpn-configuration-generator     1.0.7
+SonicPi                                  SonicPi.sonicpi                               3.2.2
+IsoBuster                                SmartProjects.IsoBuster                       4.6
+Signal                                   Signal.Signal                                 1.38.2
+Samsung DeX                              Samsung.DeX                                   1.0.0.65
+NSwagStudio                              RicoSuter.NSwagStudio                         13.7.0
+Ricochet                                 RicochetIM.Ricochet                           1.1.4
+RescueTime                               RescueTime.RescueTime                         2.16.5.1
+7+ Taskbar Tweaker                       rammichael.7+TaskbarTweaker                   Latest
+Quicken                                  Quicken.Quicken                               latest
+Qalculate!                               Qalculate.Qalculate                           3.15.0
+i2pd                                     PurpleI2P.i2pd                                2.32.0
+ProtonVPN                                ProtonTechnologies.ProtonVPN                  1.16.3
+Private Internet Access                  PrivateInternetAccess.PrivateInternetAccess   2.4.0
+Primesieve                               Primesieve.Primesieve                         7.5
+Plexamp                                  Plex.Plexamp                                  3.3.1
+CCleaner                                 Piriform.CCleaner                             5.75.8238
+PhonerLite                               Phoner.PhonerLite                             2.86.0
+OpenRA                                   OpenRA.OpenRA                                 20200503
+NVDA                                     NVAccess.NVDA                                 2020.3
+NordVPN                                  NordVPN.NordVPN                               6.32.24.0
+Nextcloud Desktop                        Nextcloud.NextcloudDesktop                    3.0.3
+Muta                                     Muta.Muta                                     2.1.02
+MullvadVPN                               MullvadVPN.MullvadVPN                         2020.6.0
+Mu                                       Mu.Mu                                         1.0.3
+The Dude Long-term                       Mikrotik.TheDude                              6.45.9
+webpicmd                                 Microsoft.webpicmd                            5.1
+ConfigMgrToolkit                         Microsoft.ConfigMgrToolkit                    5.00.7958.1151
+Meld                                     Meld.Meld                                     3.20.2
+7Zip-zstd                                mcmilk.7zip-zstd                              19.00-v1.4.5-R2
+MariaDB Server                           MariaDB.Server                                10.5.7
+Logitech Gaming Software                 Logitech.LGS                                  9.02.65
+Logitech Gaming Hub                      Logitech.LGH                                  latest
+listen1_fluent                           listen1.listen1_fluent                        2.17.1
+Media File Manager                       LancelotSoftware.MediaFileManager             2020.827.8.0
+KeePassXC                                KeePassXCTeam.KeePassXC                       2.6.2
+TreeSize Free                            JAMSoftware.TreeSizeFree                      4.4.2
+Jackett                                  Jackett.Jackett                               0.16.1922
+IZArc                                    IZArc.IZArc                                   4.4
+Nmap                                     Insecure.Nmap                                 7.80
+Free Hex Editor Neo                      HHDSoftware.FreeHexEditorNeo                  6.44.01.6234
+Link Shell Extension                     HermannSchinagl.LinkShellExtension            3.9.33
+Hedgewars                                Hedgewars.Hedgewars                           1.0.0
+Gramps                                   Gramps.Gramps                                 5.1.2
+Grafana Open Source                      GrafanaLabs.GrafanaOSS                        7.1.4
+Grafana Enterprise                       GrafanaLabs.GrafanaEnterprise                 7.1.4
+GoldenDict                               GoldenDict.GoldenDict                         1.0.1-1
+Gpg4win                                  gnupg.Gpg4win                                 3.1.13
+GnuPG                                    GnuPG.GnuPG                                   2.2.23
+GNU Emacs                                GNU.Emacs                                     27.1
+GitHub CLI                               GitHub.cli                                    1.4.0
+Graphing Calculator                      GeoGebra.GraphingCalculator                   6.0.600.0
+GeoGebraClassic                          GeoGebra.GeoGebraClassic                      6.0.600.0
+GeoGebra CAS Calculator                  GeoGebra.GeoGebraCASCalculator                6.0.592.0
+FreeCiv                                  FreeCiv.FreeCiv                               2.6.2
+Katawa Shoujo                            FourLeafStudios.KatawaShoujo                  1.3.1
+FontForge                                FontForge.FontForge                           2020.03.14
+f.lux                                    flux.flux                                     4.118
+Advanced Port Scanner                    Famatech.AdvancedPortScanner                  2.5.3869
+Advanced IP Scanner                      Famatech.AdvancedIPScanner                    2.5.3850
+ExpressVPN                               ExpressVPN.ExpressVPN                         7.12.1.4
+HideMe                                   eVenture.HideMe                               3.4.1
+grid                                     Ethereum.grid                                 1.6.2
+Planet Blupi                             Epsitec.PlanetBlupi                           1.14.2
+Colobot: Gold Edition                    Epsitec.Colobot                               0.1.12
+Empoche                                  Empoche.Empoche                               0.4.3
+ebbflow                                  Ebbflow.Ebbflow                               1.1.0
+Dopamine                                 Digimezzo.Dopamine                            2.0.4
+RemoteDesktopManagerFree                 Devolutions.RemoteDesktopManagerFree          2020.1.20.0
+Remote Desktop Manager                   Devolutions.RemoteDesktopManager              2020.1.20.0
+Dungeon Crawl Stone Soup                 DCSS.DungeonCrawlStoneSoup                    0.24.0
+IPFilterUpdater                          DavidMoore.IPFilterUpdater                    3.0.2.9-beta
+darktable                                darktable.darktable                           3.2.1
+CubicSDR                                 CubicSDR.CubicSDR                             0.2.5
+Cppcheck                                 Cppcheck.Cppcheck                             2.0
+Corsair iCUE                             Corsair.iCUE                                  3.35.152
+Clementine                               Clementine.Clementine                         1.3.1
+ClamWin Free Antivirus                   ClamWin.ClamWin                               0.99.4
+Circuit Diagram                          CircuitDiagram.CircuitDiagram                 3.1
+MiKTeX                                   ChristianSchenk.MiKTeX                        2.9.7442
+xca                                      ChristianHohnstadt.xca                        2.3.0
+Marvin                                   ChemAxon.Marvin                               20.21
+Jchem .NET api                           ChemAxon.jchemdotnetapi                       20.21.0
+ChemCurator                              ChemAxon.ChemCurator                          20.21.0
+BPBible                                  BPBible.BPBible                               0.5.3.1
+deepvocal toolbox                        Boxstar.deepvocal-toolbox                     1.1.6
+deepvocal                                Boxstar.deepvocal                             1.1.6
+BleachBit                                BleachBit.BleachBit                           4.0.0
+bkchem                                   bkchem.bkchem                                 0.13.0
+AXIS Camera Station                      AxisCommunications.AxisCameraStation          5.34.252
+AuthPass                                 Authpass.Authpass                             1.7.9
+Aurora                                   Aurora.Aurora                                 0.8.1
+Strix Music                              ArloG.StrixMusic                              1.4.9.0
+Xampp                                    ApacheFriends.Xampp                           7.4.8
+SoundSwitch                              AntoineAflalo.SoundSwitch                     5.6.0
+Miniconda3                               Anaconda.Miniconda3                           4.8.3
+Anaconda Individual Edition              Anaconda.Anaconda3                            2020.11
+AIMP                                     AIMP.AIMP                                     4.70.2236
+Aegisub                                  Aegisub.Aegisub                               8975-master-8d77da3
+7Zip - Alpha                             7zip.7zipAlpha                                20.0.2-alpha
+7Zip                                     7zip.7zip                                     19.0.0
+Markush Editor                           ChemAxon.markusheditor                        20.21.0
+4K Video Downloader                      4KDownload.4KVideoDownloader                  4.13.3
+Instant Jchem                            ChemAxon.instantjchem                         20.19.0
+Primecount                               Primecount.Primecount                         6.1
+qws                                      jamesbowden.qws                               1.56
+quicker                                  cuiliang.quicker                              1.11.8
+K-Lite Codec Pack Mega                   CodecGuide.K-LiteCodecPackMega                15.9.0
+K-Lite Codec Pack Standard               CodecGuide.K-LiteCodecPackStandard            15.9.0
+Kali Linux                               kalilinux.kalilinux                           1.1.9.0
+TreeSize Professional Trial              JAMSoftware.TreeSize                          8.0.3.1507
+Mini Program Studio                      alibaba.miniprogramstudio                     1.15.7
+GLab                                     GLab.GLab                                     1.12.1
+Ubisoft Connect                          Ubisoft.Connect                               117.0.0.10324
+PowerBI Desktop                          Microsoft.PowerBI                             2.88.802.0

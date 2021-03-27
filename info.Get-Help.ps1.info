@@ -1,0 +1,124 @@
+#S C:\Users\Y.Zus> get-help Update-Help
+
+ИМЯ
+    Update-Help
+
+[<ОПИСАНИЕ>]
+    Downloads and installs the newest help files on
+    your computer.
+
+
+СИНТАКСИС
+    Update-Help [[-Module] <System.String[]>]
+    [[-UICulture]
+    <System.Globalization.CultureInfo[]>]
+    [-Credential
+    <System.Management.Automation.PSCredential>]
+    [-Force] [-FullyQualifiedModule <Microsoft.PowerSh
+    ell.Commands.ModuleSpecification[]>]
+    [-LiteralPath <System.String[]>] [-Recurse]
+    [-UseDefaultCredentials] [-Confirm] [-WhatIf]
+    [<CommonParameters>]
+
+    Update-Help [[-Module] <System.String[]>]
+    [[-SourcePath] <System.String[]>] [[-UICulture]
+    <System.Globalization.CultureInfo[]>]
+    [-Credential
+    <System.Management.Automation.PSCredential>]
+    [-Force] [-FullyQualifiedModule <Microsoft.PowerSh
+    ell.Commands.ModuleSpecification[]>] [-Recurse]
+    [-UseDefaultCredentials] [-Confirm] [-WhatIf]
+    [<CommonParameters>]
+
+
+ОПИСАНИЕ
+    The `Update-Help` cmdlet downloads the newest
+    help files for PowerShell modules and installs
+    them on your computer. You don't need to restart
+    PowerShell to make the change effective. You can
+    use the `Get-Help` cmdlet to view the new help
+    files immediately.
+
+    `Update-Help` checks the version of the help
+    files on your computer. If you don't have help
+    files for a module or if your help files are
+    outdated, `Update-Help` downloads the newest help
+    files. The help files can be downloaded and
+    installed from the internet or a file share.
+
+    Without parameters, `Update-Help` updates the
+    help files for modules in the session and for all
+    installed modules that support Updatable Help.
+    Modules that are installed but not loaded in the
+    current session are included. PowerShell modules
+    are stored in a location listed in the
+    `$env:PSModulePath` environment variable. For
+    more information, see about_Updatable_Help
+    (./About/about_Updatable_Help.md).
+
+    You can use the Module parameter to update help
+    files for a particular module. Use the UICulture
+    parameter to download help files in multiple
+    languages and locales.
+
+    You can't use `Update-Help` on computers that
+    aren't connected to the internet. Use the
+    `Save-Help` cmdlet to download help files from
+    the internet and save them in a file system
+    location, such as a shared folder or file system
+    directory. Then use the SourcePath parameter of
+    `Update-Help` to download the updated help files
+    from a file system location and install them on
+    the computer.
+
+    You can automate help updates by adding the
+    `Update-Help` cmdlet to your PowerShell profile.
+    By default, `Update-Help` runs only one time per
+    day on each computer. To override the
+    once-per-day limit, use the Force parameter.
+
+    The `Update-Help` cmdlet was introduced in
+    Windows PowerShell 3.0.
+
+    > [!IMPORTANT] > `Update-Help` requires
+    administrative privileges. > > You must be a
+    member of the Administrators group on the
+    computer > to update the help files for the
+    PowerShell Core modules. > > To download or
+    update the help files for modules in the
+    PowerShell > installation directory
+    (`$PSHOME\Modules`), including the PowerShell >
+    Core modules, start PowerShell by using the Run
+    as administrator option. > For example:
+    `Start-Process powershell.exe -Verb RunAs`. > >
+    You can also update help files by using the
+    Update Windows PowerShell Help > menu item in the
+    Help menu in Windows PowerShell Integrated
+    Scripting > Environment (ISE). > > The Update
+    Windows PowerShell Help item runs an
+    `Update-Help` cmdlet > without parameters. > To
+    update help for modules in the `$PSHOME`
+    directory, > start Windows PowerShell ISE by
+    using the Run as administrator option.
+
+
+ССЫЛКИ ПО ТЕМЕ
+    Online Version: https://docs.microsoft.com/powersh
+    ell/module/microsoft.powershell.core/update-help?v
+    iew=powershell-5.1&WT.mc_id=ps-gethelp
+    Get-Culture
+    Get-Help
+    Get-Module
+    Get-UICulture
+    Start-Job
+    Save-Help
+
+ЗАМЕЧАНИЯ
+    Для просмотра примеров введите: "get-help
+    Update-Help -examples".
+    Для получения дополнительных сведений введите:
+    "get-help Update-Help -detailed".
+    Для получения технических сведений введите:
+    "get-help Update-Help -full".
+    Для получения справки в Интернете введите:
+"get-help Update-Help -online"
